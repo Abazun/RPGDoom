@@ -1,0 +1,21 @@
+name: RPGDoom
+main: rpgDoom.Main
+version: 1.4.2
+api-version: 1.17
+
+commands:
+   doom:
+      description: Makes the player die after some time
+      permission: maztm.rpgDoom.doom
+   esuna:
+      description: Removes the Doom effect
+      permission: maztm.rpgDoom.esuna  
+   monument:
+      description: Starts a riddle
+      permission: maztm.rpgDoom.riddle  
+   rpgbmoon:
+      description: Tags users appropriately
+      permission: maztm.rpgDoom.bmoon  
+   rescue:
+      description: Rescues player from The Monument
+      permission: maztm.rpgDoom.rescue  
