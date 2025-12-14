@@ -1,0 +1,4 @@
+name: Doom
+version: '1.0-SNAPSHOT'
+main: org.eizyunga.doom.Doom
+api-version: '1.21'
